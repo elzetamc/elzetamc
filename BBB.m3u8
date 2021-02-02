@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="BBB 21",BBB HD MOSAICO
+http://5ce.me:80/live/leonardouruguay10/riquelme119850/139125.m3u8
+#EXTINF:-1 group-title="BBB 21",BBB HD 2
+http://5ce.me:80/live/leonardouruguay10/riquelme119850/139124.m3u8
+#EXTINF:-1 group-title="BBB 21",BBB HD 1
+http://5ce.me:80/live/leonardouruguay10/riquelme119850/139123.m3u8
